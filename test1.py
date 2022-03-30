@@ -23,6 +23,7 @@ tempfile.gettempdirb()	与 gettempdir() 相同，只是该函数返回字节串�
 tempfile.gettempprefix()	返回用于生成临时文件的前缀名。
 tempfile.gettempprefixb()	与 gettempprefix() 相同，只是该函数返回字节串。
  """
+
 import os.path
 import tempfile
 
