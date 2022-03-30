@@ -53,4 +53,4 @@ if __name__ == '__main__':
         print(os.path.exists(fileDir))
     print(os.path.exists(fileDir))
 
-
+    # 10天，108个项目，241个文件，288347个字符，9480行代码，Python基础部分已学完
